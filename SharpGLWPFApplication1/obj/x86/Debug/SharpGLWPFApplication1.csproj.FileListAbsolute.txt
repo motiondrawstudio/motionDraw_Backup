@@ -1,0 +1,17 @@
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe.config
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.pdb
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.dll
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.WPF.dll
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\App.g.cs
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1_MarkupCompile.cache
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.g.resources
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.Properties.Resources.resources
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.exe
+c:\users\danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.pdb

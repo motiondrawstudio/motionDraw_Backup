@@ -1,0 +1,37 @@
+
+attribute vec3 Vertex;
+attribute vec2 Uv;
+attribute vec3 Normal;
+
+
+
+uniform mat4 ProjectionMatrix;
+uniform mat4 ViewMatrix;
+uniform mat4 ModelMatrix;
+uniform vec3 ModelScale;
+
+uniform MaterialSource Material;
+
+varying vec4 vWorldVertex;
+varying vec3 vWorldNormal;
+varying vec2 vUv;
+varying vec3 vViewVec;
+
+
+void main ()
+{
+    // Transform the vertex
+    vWorldVertex = ModelMatrix * vec4(Vertex * ModelScale, 1.0);
+    vec4 viewVertex = ViewMatrix * vWorldVertex;
+    gl_Position = ProjectionMatrix * viewVertex;
+    
+    // Setup the UV coordinates
+    vUv = Material.TextureOffset + (Uv * Material.TextureScale);
+    
+    // Rotate normal
+    vWorldNormal = normalize(mat3(ModelMatrix) * Normal);
+    
+    // Calculate view vector (for specular lighting)
+    vViewVec = normalize(-viewVertex.xyz);
+}
+   

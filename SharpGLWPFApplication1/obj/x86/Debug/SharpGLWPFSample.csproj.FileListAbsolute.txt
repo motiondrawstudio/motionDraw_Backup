@@ -1,0 +1,70 @@
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe.config
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.dll
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1_MarkupCompile.cache
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.g.resources
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.Properties.Resources.resources
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\documents\visual studio 2010\Projects\SharpGLWPFApplication1\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe.config
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.dll
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1_MarkupCompile.cache
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.g.resources
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.Properties.Resources.resources
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Danilo\Documents\visual studio 2010\Projects\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe.config
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.exe
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1_MarkupCompile.cache
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.g.resources
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.Properties.Resources.resources
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.dll
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Marcel\Documents\GlKxt\SharpGLWPFApplication1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe.config
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.exe
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGLWPFApplication1.pdb
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGL.dll
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\bin\Debug\SharpGL.WPF.dll
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1_MarkupCompile.cache
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.g.resources
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\SharpGLWPFApplication1.Properties.Resources.resources
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\ControlBox.baml
+C:\Users\Danilo\Desktop\GlKxt_spectro\SharpGLWPFApplication1\obj\x86\Debug\ControlBox.g.cs
